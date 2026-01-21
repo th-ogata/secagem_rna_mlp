@@ -6,17 +6,19 @@ Químicos" na UNIFESP. Consistindo no treinamento de uma rede neural perceptron 
 O objetivo principal desse projeto foi desenvolver uma rede neural com o papel de um sensor virtual. De forma que obtenha-se o tempo ideal de secagem por meio de parâmetros medidos antecedemente. 
 
 # Arquivos
-Descrição de cada tipo de arquivo neste repositório:
+Descrição dos arquivos presentes neste repositório:
 
 *  **Scripts do MATLAB (`.m`)**
-   * 
+   * `scriptRNA_regressao.m`: **Arquivo Principal** a qual carrega os dados, define a estrutura, treina e simula a RNA. 
 
 *  **Dados (`.xlsx`, `.mat`)**
    * `Dados.xlsx`: Planilha principal contendo os dados para treinar e validar o modelo.
-   * `XXXXX.mat`: Arquivos do Workspace do Matlab contendo o modelo treinado que se sobresaiu aos demais.
+   * `RNA_def.mat`: Arquivos do Workspace do Matlab contendo o modelo treinado que se sobresaiu aos demais.
 
 *  **Documentação (`.pdf`)**
-   * `XXXX.pdf`: Slides utilizados para a apresentação do projeto.
+   * `cinética de secagem de grãos.pdf`: Slides utilizados na apresentação do projeto final do curso.
+   * `156_mmpddcdsdsdma.pdf`: Artigo por Anastásia Maria Mikaella (UFCG, 2018) a qual os dados experimentais foram retirados. 
 
 # Referências
 Os dados experimentais para treinamento e ajuste do modelo foram obtidos do artigo:
+https://www.confea.org.br/sites/default/files/antigos/contecc2018/agronomia/156_mmpddcdsdsdma.pdf
