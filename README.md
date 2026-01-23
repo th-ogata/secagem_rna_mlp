@@ -13,6 +13,7 @@ Descrição dos arquivos presentes neste repositório:
 
 *  **Dados (`.xlsx`, `.mat`)**
    * `Dados.xlsx`: Planilha principal contendo os dados para treinar e validar o modelo.
+   * `dados_desidratador_RNA.xlsx`: Planila em Excel para organização dos dados.
    * `RNA_def.mat`: Arquivos do Workspace do Matlab contendo o modelo treinado que se sobresaiu aos demais.
 
 *  **Documentação (`.pdf`)**
